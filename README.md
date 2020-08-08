@@ -1,4 +1,4 @@
-# Data_Analysis_projects
+# Data_Science_Projects
 ## All the projects in this folder represent accomplished tasks, accomplished courses' projects or accomplished freelancer projects.
 ### Statistical Analysis conducted in this projects
 > Bootstrapping sampling distributions and p-value calculations\
