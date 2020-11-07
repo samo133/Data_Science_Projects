@@ -8,7 +8,7 @@
 > KNN Machine Learning Algorithm\
 > SVM algoritn.\
 > Decision Tree Algoritm.\
-> Jaccard , F1 score and Log loss Matrices.\
+> Jaccard , F1 score and Log loss Matrices.
 ### Technologies Used
 > Pythone (Numpy, Pandas, Matplotlib,Seaborn, StatsModels, Scipy and sklearn)\
 > Jupyter Notebook\
